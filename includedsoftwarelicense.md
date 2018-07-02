@@ -1,4 +1,4 @@
--- Authentication Software --
+-- https://github.com/DeveloperShed/BasicSecureLogin --
 
 The MIT License (MIT)
 
